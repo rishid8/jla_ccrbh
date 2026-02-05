@@ -1,0 +1,6 @@
+parameter   median   minus_1sigma   plus_1sigma
+(for x only: value is 95% lower bound)
+H0  66.9381  0.527531  0.53705
+Om  0.295971  0.00849542  0.00922797
+rd  147.096  0.240118  0.240661
+x_lower_95   1.57705
